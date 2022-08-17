@@ -8,6 +8,9 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '54832'
     url: http://www.gutenberg.org/2009/agents/54832
+covers:
+- cover_type: archival
+  image_path: 68547-h/images/cover.jpg
 creator:
   author:
     agent_name: Lovecraft, H. P. (Howard Phillips)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34724
     wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
 description: 'Wikipedia: https://en.wikipedia.org/wiki/He_(short_story)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68547#He
 gutenberg_issued: '2022-07-17'
 identifiers:
   gutenberg: '68547'
